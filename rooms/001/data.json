@@ -1,0 +1,46 @@
+{
+  "images": [
+    {
+      "file": "4.jpg",
+      "source": {
+        "file": "https://cdn.discordapp.com/attachments/884183834931896372/884191644654637056/4.jpg",
+        "gallery": "https://web.archive.org/web/20001015231208/http://www.ttlg.com/articles/arx1.asp"
+      }
+    },
+    {
+      "file": "8121svi5ki6a.jpg",
+      "source": {
+        "file": "https://www.pcgames.de/screenshots/original/2001/11/8121svi5ki6a.jpg",
+        "gallery": "https://www.pcgames.de/Arx-Fatalis-Spiel-18233/News/E3-Arx-Fatalis-mit-Demo-8518/galerie/170196/"
+      }
+    },
+    {
+      "file": "22706.jpg",
+      "source": {
+        "file": "https://www.abcgames.sk/udaje/screenshoty/227/22706.jpg",
+        "gallery": "https://www.abcgames.sk/simage.asp?s=8&id=5422&num=22706"
+      }
+    },
+    {
+      "file": "00015820.jpg",
+      "source": {
+        "file": "https://images.gamewatcherstatic.com/screenshot/image/6/ca/201616/00015820.jpg",
+        "gallery": "https://www.gamewatcher.com/games/arx-fatalis/screens/40575"
+      }
+    },
+    {
+      "file": "00015813.jpg",
+      "source": {
+        "file": "https://images.gamewatcherstatic.com/screenshot/image/2/3e/201552/00015813.jpg",
+        "gallery": "https://www.gamewatcher.com/games/arx-fatalis/screens/40575"
+      }
+    },
+    {
+      "file": "00015814.jpg",
+      "source": {
+        "file": "https://images.gamewatcherstatic.com/screenshot/image/1/81/201561/00015814.jpg",
+        "gallery": "https://www.gamewatcher.com/games/arx-fatalis/screens/40575"
+      }
+    }
+  ]
+}
