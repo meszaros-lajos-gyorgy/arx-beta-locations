@@ -1,0 +1,60 @@
+{
+  "images": [
+    {
+      "file": "5.jpg",
+      "source": {
+        "file": "https://web.archive.org/web/20091231170940fw_/http://ttlg.com/articles/arx/5.jpg",
+        "gallery": "https://web.archive.org/web/20001015231208/http://www.ttlg.com/articles/arx1.asp"
+      }
+    },
+    {
+      "file": "6.jpg",
+      "source": {
+        "file": "https://web.archive.org/web/20091231170940fw_/http://ttlg.com/articles/arx/6.jpg",
+        "gallery": "https://web.archive.org/web/20001015231208/http://www.ttlg.com/articles/arx1.asp"
+      }
+    },
+    {
+      "file": "8.jpg",
+      "source": {
+        "file": "https://web.archive.org/web/20091231170940fw_/http://ttlg.com/articles/arx/8.jpg",
+        "gallery": "https://web.archive.org/web/20001015231208/http://www.ttlg.com/articles/arx1.asp"
+      }
+    },
+    {
+      "file": "8121svi5ki66.jpg",
+      "source": {
+        "file": "https://www.pcgames.de/screenshots/original/2001/11/8121svi5ki66.jpg",
+        "gallery": "https://www.pcgames.de/Arx-Fatalis-Spiel-18233/News/E3-Arx-Fatalis-mit-Demo-8518/galerie/170195/"
+      }
+    },
+    {
+      "file": "8121svi5ki67.jpg",
+      "source": {
+        "file": "https://www.pcgames.de/screenshots/original/2001/11/8121svi5ki67.jpg",
+        "gallery": "https://www.pcgames.de/Arx-Fatalis-Spiel-18233/News/E3-Arx-Fatalis-mit-Demo-8518/galerie/170195/"
+      }
+    },
+    {
+      "file": "milestone2_03.jpg",
+      "source": {
+        "file": "https://web.archive.org/web/20030201011322im_/http://jeuxderoles.com/a/images/milestone2_03.jpg",
+        "gallery": "https://web.archive.org/web/20010211181348/http://www.jeuxderoles.com/a/arx.htm"
+      }
+    },
+    {
+      "file": "00015816.jpg",
+      "source": {
+        "file": "https://images.gamewatcherstatic.com/screenshot/image/9/ea/201579/00015816.jpg",
+        "gallery": "https://www.gamewatcher.com/games/arx-fatalis/screens/40575"
+      }
+    },
+    {
+      "file": "00015817.jpg",
+      "source": {
+        "file": "https://images.gamewatcherstatic.com/screenshot/image/8/d2/201588/00015817.jpg",
+        "gallery": "https://www.gamewatcher.com/games/arx-fatalis/screens/40575"
+      }
+    }
+  ]
+}

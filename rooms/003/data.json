@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "file": "10.jpg",
+      "source": {
+        "file": "https://web.archive.org/web/20010614235320/http://www.stygianabyss.com:80/arxshots/10.jpg"
+      }
+    },
+    {
+      "file": "svkj0kj1.gif",
+      "source": {
+        "file": "http://web.archive.org/web/20000831044313im_/http://www.arkane-studios.com/svkj0kj1.gif",
+        "gallery": "http://web.archive.org/web/20001019034738/http://www.arkane-studios.com/games.html"
+      }
+    },
+    {
+      "file": "milestone2_07.jpg",
+      "source": {
+        "file": "https://web.archive.org/web/20020609214026if_/http://jeuxderoles.com:80/a/images/milestone2_07.jpg",
+        "gallery": "https://web.archive.org/web/20010211181348/http://www.jeuxderoles.com/a/arx.htm"
+      }
+    }
+  ]
+}
