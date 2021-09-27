@@ -13,6 +13,14 @@
 				"file": "https://web.archive.org/web/20020829125622if_/http://stygianabyss.com:80/arxshots/mipshot_castle_mipmap_800.jpg",
 				"gallery": "https://web.archive.org/web/*/http://stygianabyss.com/arxshots/*"
 			}
+		},
+		{
+			"file": "22745.jpg",
+			"source": {
+				"file": "https://www.abcgames.sk/udaje/screenshoty/227/22745.jpg",
+				"gallery": "https://www.abcgames.sk/simage.asp?s=8&id=5422&num=22745",
+				"article": "https://web.archive.org/web/20001216070700/http://www.rpgdot.com/html/arxint.html"
+			}
 		}
 	]
 }
