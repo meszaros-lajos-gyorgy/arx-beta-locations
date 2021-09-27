@@ -1,0 +1,18 @@
+{
+	"images": [
+		{
+			"file": "mipshot_castle_800.jpg",
+			"source": {
+				"file": "https://web.archive.org/web/20020910225124if_/http://stygianabyss.com:80/arxshots/mipshot_castle_800.jpg",
+				"gallery": "https://web.archive.org/web/*/http://stygianabyss.com/arxshots/*"
+			}
+		},
+		{
+			"file": "mipshot_castle_mipmap_800.jpg",
+			"source": {
+				"file": "https://web.archive.org/web/20020829125622if_/http://stygianabyss.com:80/arxshots/mipshot_castle_mipmap_800.jpg",
+				"gallery": "https://web.archive.org/web/*/http://stygianabyss.com/arxshots/*"
+			}
+		}
+	]
+}

@@ -29,10 +29,10 @@
       }
     },
     {
-      "file": "00015813.jpg",
+      "file": "image2_big.jpg",
       "source": {
-        "file": "https://images.gamewatcherstatic.com/screenshot/image/2/3e/201552/00015813.jpg",
-        "gallery": "https://www.gamewatcher.com/games/arx-fatalis/screens/40575"
+        "file": "https://web.archive.org/web/20020910210136if_/http://stygianabyss.com:80/arxshots/image2_big.jpg",
+		"gallery": "https://web.archive.org/web/*/http://stygianabyss.com/arxshots/*"
       }
     },
     {
@@ -47,6 +47,13 @@
 		"source": {
 			"file": "https://img.gameswelt.de/public/images/200206/516b9f0e84a866eaa10169ed736e92de.jpg",
 			"gallery": "https://www.gameswelt.de/arx-fatalis/screenshots/uebersicht-182306/76555"
+		}
+	},
+	{
+		"file": "image8_big.jpg",
+		"source": {
+			"file": "https://web.archive.org/web/20020910223659if_/http://stygianabyss.com:80/arxshots/image8_big.jpg",
+			"gallery": "https://web.archive.org/web/*/http://stygianabyss.com/arxshots/*"
 		}
 	}
   ]
